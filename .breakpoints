@@ -1,0 +1,20 @@
+{
+  "files": {
+    "README.md": [
+      {
+        "id": "5576b95b-d075-426e-a74b-332a28da3eb9",
+        "line": 1,
+        "version": 58,
+        "index": 0
+      }
+    ],
+    "requirement.txt": [
+      {
+        "id": "5ce2de49-eaf1-4f94-b71d-79efeb7823ac",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ]
+  }
+}
